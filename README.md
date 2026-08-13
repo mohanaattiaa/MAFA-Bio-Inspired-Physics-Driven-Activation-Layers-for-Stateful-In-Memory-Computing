@@ -1,0 +1,1 @@
+# MAFA-Bio-Inspired-Physics-Driven-Activation-Layers-for-Stateful-In-Memory-Computing
