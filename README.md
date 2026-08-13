@@ -1,3 +1,4 @@
+https://doi.org/10.5281/zenodo.21911638
 # MAFA-Bio-Inspired-Physics-Driven-Activation-Layers-for-Stateful-In-Memory-Computing
 # MAFA Non-Linear Activation Function & Hysteresis Simulation
 
